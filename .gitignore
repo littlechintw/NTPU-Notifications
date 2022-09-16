@@ -1,0 +1,11 @@
+# Config File
+config.json
+
+# Python Cache
+__pycache__/
+
+# Database
+*.db
+
+# Debug
+debug.py

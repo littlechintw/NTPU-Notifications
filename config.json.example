@@ -1,0 +1,4 @@
+{
+    "TELEGRAM_TOKEN": "YourTelegramToken",
+    "TELEGRAM_CHAT_ID": "YourChatID"
+}

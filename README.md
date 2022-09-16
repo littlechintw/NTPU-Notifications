@@ -1,4 +1,10 @@
 # NTPU-Notifications
-This project has deployed on AoG.
 
-[Google Assistant 頁面](https://assistant.google.com/services/a/uid/0000003f478b6019?hl=zh-TW&source=web)
+Get news on NTPU, and post it to telegram channel.
+
+[Telegram Channel](https://t.me/ntpu_notifications)
+
+## Feature
+
+1. Can fetch the data from NTPU site, and save to sqlite.
+2. [Future feature] Monitor some website to know the healthy status.
